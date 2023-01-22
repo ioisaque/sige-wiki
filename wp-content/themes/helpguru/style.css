@@ -1,0 +1,28 @@
+/*
+Theme Name:     HelpGuru
+Theme URI:      https://herothemes.com/
+Author:         HeroThemes
+Author URI:     https://herothemes.com
+Description:    <strong>For updates:</strong> <a href="http://twitter.com/herothemes">Follow me on twitter</a> &ndash; <a href="http://www.facebook.com/herothemes">Join the Facebook Group</a> 
+Version:        1.7.0
+License:        ThemeForest Regular License
+License URI:    http://themeforest.net/licenses/regular
+Text Domain:    helpguru
+*/
+
+/* Edited by Hugo Moura */
+/*--------------------------------------------------------------*/
+html, body {
+    background: linear-gradient(to right, #19308A , #0D74BD);
+}
+
+#site-header #logo img {
+	max-width: 80%;
+}
+
+#ht-site-container,
+#page-header,
+#homepage-features,
+#site-footer {
+    background: none !important;
+}
